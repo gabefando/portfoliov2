@@ -2,17 +2,17 @@ import React from "react";
 
 function About() {
     return(
-        <div>
-            <div className="mt-3 mb-3 text-center">
+        <div className="mt-4 pt-4">
+            <div className="mb-3 text-center">
                 <h1>Hi, my name is Gabriel Fonseca</h1>
                 <h2>And i'm a full-stack web developer.</h2>
             </div>
-            <div className="container mt-3">
+            <div className="container mt-4">
                 <div className="row justify-content-center">
-                    <p className="col-7">Im a full-stack web developer living in Atlanta Georgia, passionate about programming and developing websites. I am recently doing a coding bootcamp with Georgia Tech and have experience with HTML, CSS, JavaScript, Bootstrap, Node.js, and React. I have always been someone who has both a creative and a logical side, and web development is the perfect area for me to use both of those skills.</p>
+                    <p className="col-7">Im a full-stack web developer living in Atlanta Georgia, passionate about programming and developing websites. I have recently done a coding bootcamp with Georgia Tech and have experience with HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, and React. I have always been someone who has both a creative and a logical side, and web development is the perfect area for me to use both of those skills.</p>
                 </div>  
             </div>
-            <div className="d-flex justify-content-center text-center mt-3">
+            <div className="d-flex justify-content-center text-center mt-2">
                 <div className="px-2">
                     <a type="button" className="btn btn-secondary" href="https://gabe-fonseca-resume.tiiny.site/">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-earmark-pdf-fill" viewBox="0 0 16 16">
